@@ -15,6 +15,8 @@
 #include <sstream>
 #include <vector>
 #include <iostream>
+#include <cstdlib> // для функций rand() и srand()
+#include <ctime> // для функции time()
 using namespace std;
 
 //------------------------------------------------------------------------------

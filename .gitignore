@@ -3,3 +3,4 @@
 /hello_fltk
 *.html
 *.json
+!ex*.txt
